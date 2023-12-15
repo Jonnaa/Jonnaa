@@ -2,9 +2,9 @@
 
 I am a software engineer with an educational background in computer science and a hands-on full-stack bootcamp.
 
-My past includes going to college for 3 years for a computer science degree. I decided to learn a specific set of skills rather than the basics of many topics, so I decided to seek a coding bootcamp. I have also worked in movie theaters for 3 years and was a highly valued team member. I received team member of the month for the opening month of a movie theater. 
+I am a dedicated, hard-working, quick learner who always aims to exceed expectations. Fueled by an unwavering love for problem-solving, a passion for excellence, and a relentless pursuit of improvement to every project.
 
-I am sharp and can pick things up surprisingly quickly. I am dedicated and hard-working.  
+My past includes three years of pursuing a computer science degree, earning around 80 credits. Recognizing my need for a more hands-on learning environment to learn a specific set of skills, I chose to enroll in a coding bootcamp. I have also worked in movie theaters for a total of three years and was a highly valued team member at each location. I received the team member of the month award during the opening month of a movie theater, which at the time had around 70 employees.
 
 Hobbies:
 - Playing video games
