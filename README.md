@@ -11,6 +11,7 @@ Hobbies:
 - Watching movies/shows/videos
 - Bouldering
 
+Portfolio: https://jonnaa.github.io/Portfolio/
 E-mail: Jonnaa96@yahoo.com  
 LinkedIn: https://www.linkedin.com/in/jonathannavarroswe/
 <!--
