@@ -1,6 +1,6 @@
 ## Hi, I'm Jonathan 👋
 
-I am a software engineer with an educational background in computer science and a hands-on full-stack bootcamp.
+I am a software developer with an educational background in computer science and a hands-on full-stack bootcamp.
 
 I am a dedicated, hard-working, quick learner who always aims to exceed expectations. Fueled by an unwavering love for problem-solving, a passion for excellence, and a relentless pursuit of improvement to every project.
 
